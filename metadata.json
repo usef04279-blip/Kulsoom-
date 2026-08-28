@@ -1,0 +1,6 @@
+{
+  "name": "Kulsoom",
+  "description": "Kulsoom is an intelligent AI personal assistant and system automation app powered by Gemini, capable of understanding voice and text commands to execute real device actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

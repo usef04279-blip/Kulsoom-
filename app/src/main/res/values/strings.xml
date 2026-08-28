@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kulsoom</string>
+    <string name="app_tagline">Your voice. Your commands. Kulsoom listens.</string>
+    <string name="app_copyright">Kulsoom © 2026 Munib u Rehman. All rights reserved.</string>
+    <string name="developer_name">Munib u Rehman</string>
+    <string name="accessibility_service_desc">Enables Kulsoom In-App Reply Dictation to detect the active text field and insert dictated replies into WhatsApp, Messages, and other chat apps on wake-word command.</string>
+</resources>
